@@ -339,10 +339,15 @@
     <Compile Include="Assets\Scripts\Load Awal.cs" />
     <Compile Include="Assets\Scripts\MainMenuUI.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\GameObjectHelper.cs" />
+    <Compile Include="Assets\Scripts\MultiPlayer\GerakanPlayer.cs" />
+    <Compile Include="Assets\Scripts\MultiPlayer\KameraPlayer.cs" />
+    <Compile Include="Assets\Scripts\MultiPlayer\Ledakan.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\PengaturanMultiPlayer.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\PengaturanMultiplayerLevel.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\Room.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\RoomMultiplayer.cs" />
+    <Compile Include="Assets\Scripts\MultiPlayer\SeranganPlayer.cs" />
+    <Compile Include="Assets\Scripts\MultiPlayer\Tembakan.cs" />
     <Compile Include="Assets\Scripts\NamaPlayer.cs" />
     <Compile Include="Assets\Scripts\Pengaturan.cs" />
     <Compile Include="Assets\Scripts\PindahPanel.cs" />
