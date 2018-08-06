@@ -79,10 +79,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BackSoundTerus.cs" />
+    <Compile Include="Assets\Scripts\BacksoundFullscreen.cs" />
     <Compile Include="Assets\Scripts\ButtonClickSound.cs" />
+    <Compile Include="Assets\Scripts\CekFullScreen.cs" />
+    <Compile Include="Assets\Scripts\CekSound.cs" />
     <Compile Include="Assets\Scripts\InitialisasiGame.cs" />
     <Compile Include="Assets\Scripts\Keluar.cs" />
+    <Compile Include="Assets\Scripts\Load Awal.cs" />
+    <Compile Include="Assets\Scripts\MainMenuUI.cs" />
+    <Compile Include="Assets\Scripts\Pengaturan.cs" />
     <Compile Include="Assets\Scripts\PindahPanel.cs" />
+    <Compile Include="Assets\Scripts\PindahScene.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
