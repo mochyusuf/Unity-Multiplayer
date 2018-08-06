@@ -88,6 +88,7 @@
     <Compile Include="Assets\Scripts\Keluar.cs" />
     <Compile Include="Assets\Scripts\Load Awal.cs" />
     <Compile Include="Assets\Scripts\MainMenuUI.cs" />
+    <Compile Include="Assets\Scripts\NamaPlayer.cs" />
     <Compile Include="Assets\Scripts\Pengaturan.cs" />
     <Compile Include="Assets\Scripts\PindahPanel.cs" />
     <Compile Include="Assets\Scripts\PindahScene.cs" />
