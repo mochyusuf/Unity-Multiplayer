@@ -1,4 +1,7 @@
 sceneSetups:
-- path: Assets/Scenes/Game/Game.Multi.Start.unity
+- path: Assets/Scenes/Game/Game.Multi.Level.1.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/Game/Game.Multi.Start.unity
+  isLoaded: 0
+  isActive: 0

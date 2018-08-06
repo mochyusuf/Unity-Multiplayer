@@ -8,6 +8,7 @@ public class RoomMultiplayer : MonoBehaviour
 {
     public Button tombolGabung;
     public Dropdown dropdownMultiplayer;
+
     public Text statusMultiplayer;
     public int maksimumPanjangNamaPlayer;
     public int minimumPanjangNamaPlayer;
@@ -74,9 +75,9 @@ public class RoomMultiplayer : MonoBehaviour
 
     public void PerubahanInputNamaPlayer()
     {
-        validasiRoom();
         Debug.Log("Perubahan Input Player");
         statusMultiplayer.text = "Perubahan Input Player";
+        validasiRoom();
     }
 
     private void SaatPerubahanDaftarRoom(List<AmbilRoom.Room> daftarRoom)
@@ -103,8 +104,8 @@ public class RoomMultiplayer : MonoBehaviour
 
     private void SudahBisaGabung()
     {
-        TombolGabung.interactable = true;
         Debug.Log("Bisa Gabung");
+        TombolGabung.interactable = true;
     }
 
     private bool ApakahRoomPenuh()
