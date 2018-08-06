@@ -74,17 +74,17 @@
     <Reference Include="UnityEngine.VR">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
     </Reference>
-    <Reference Include="Photon3Unity3D">
-      <HintPath>Assets/Plugins/Photon3Unity3D.dll</HintPath>
-    </Reference>
-    <Reference Include="websocket-sharp">
-      <HintPath>Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
-    </Reference>
     <Reference Include="GETween">
       <HintPath>Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
     </Reference>
     <Reference Include="GUIAnimatorFREE">
       <HintPath>Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon3Unity3D">
+      <HintPath>Assets/Plugins/Photon3Unity3D.dll</HintPath>
+    </Reference>
+    <Reference Include="websocket-sharp">
+      <HintPath>Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
@@ -340,6 +340,7 @@
     <Compile Include="Assets\Scripts\MainMenuUI.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\GameObjectHelper.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\PengaturanMultiPlayer.cs" />
+    <Compile Include="Assets\Scripts\MultiPlayer\PengaturanMultiplayerLevel.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\Room.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\RoomMultiplayer.cs" />
     <Compile Include="Assets\Scripts\NamaPlayer.cs" />
