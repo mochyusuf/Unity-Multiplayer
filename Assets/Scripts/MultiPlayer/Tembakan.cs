@@ -6,7 +6,8 @@ public class Tembakan : Photon.PunBehaviour
     public float kecepatanLaser;
     private Vector3 syncPosShot = Vector3.zero;
     public string tagMusuh = "Musuh";
-    public GameObject playerSaya;
+
+    //public GameObject playerSaya;
     public int satuanSkor = 100;
 
     // Use this for initialization
