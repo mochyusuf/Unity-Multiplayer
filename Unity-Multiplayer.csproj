@@ -338,6 +338,7 @@
     <Compile Include="Assets\Scripts\ButtonClickSound.cs" />
     <Compile Include="Assets\Scripts\CekFullScreen.cs" />
     <Compile Include="Assets\Scripts\CekSound.cs" />
+    <Compile Include="Assets\Scripts\Ending.cs" />
     <Compile Include="Assets\Scripts\InitialisasiGame.cs" />
     <Compile Include="Assets\Scripts\Keluar.cs" />
     <Compile Include="Assets\Scripts\Load Awal.cs" />
