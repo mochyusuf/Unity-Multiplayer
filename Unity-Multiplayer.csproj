@@ -329,6 +329,10 @@
     <Compile Include="Assets\PhotonChatApi\ChatState.cs" />
     <Compile Include="Assets\PhotonChatApi\ChatUserStatus.cs" />
     <Compile Include="Assets\PhotonChatApi\IChatClientListener.cs" />
+    <Compile Include="Assets\Scripts\AI\Astar.cs" />
+    <Compile Include="Assets\Scripts\AI\AturanNPC.cs" />
+    <Compile Include="Assets\Scripts\AI\Grid.cs" />
+    <Compile Include="Assets\Scripts\AI\Node.cs" />
     <Compile Include="Assets\Scripts\BackSoundTerus.cs" />
     <Compile Include="Assets\Scripts\BacksoundFullscreen.cs" />
     <Compile Include="Assets\Scripts\ButtonClickSound.cs" />
@@ -346,6 +350,7 @@
     <Compile Include="Assets\Scripts\MultiPlayer\PengaturanMultiplayerLevel.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\Room.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\RoomMultiplayer.cs" />
+    <Compile Include="Assets\Scripts\MultiPlayer\SerangMusuh.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\SeranganPlayer.cs" />
     <Compile Include="Assets\Scripts\MultiPlayer\Tembakan.cs" />
     <Compile Include="Assets\Scripts\NamaPlayer.cs" />
